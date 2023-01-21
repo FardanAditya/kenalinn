@@ -20,8 +20,8 @@
 # About me
 * Name : Fardan
 * Full name : Fardan Aditya Putra
-* Age : 14 y.o
-* Place & year of birth : Indonesia => Jawa Barat => Sukabumi, 2008-4-19
+* Age : Private
+* Place & year of birth : Indonesia => Jawa Barat => Sukabumi
 * Gender : Male
 * My girlfriend : You
 
